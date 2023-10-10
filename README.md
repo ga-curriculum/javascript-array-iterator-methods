@@ -1,10 +1,10 @@
-# [tktk Module Name]
+# Array Iterator Methods
 
 ![Hero image](./assets/tktkhero-main.png)
 
 ## Module overview
 
-tktk What is the takeaway of this module?
+This module introduces array iterator methods. 
 
 ## Content outline
 

@@ -1,4 +1,4 @@
-# [tktk Module Name] - Release Notes
+# Array Iterator Methods - Release Notes
 
 ![Hero image](../assets/tktkhero-secondary.png)
 

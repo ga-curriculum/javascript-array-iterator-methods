@@ -1,4 +1,4 @@
-# [tktk Module Name] - Instructor Guide
+# Array Iterator Methods - Instructor Guide
 
 ![Hero image](../assets/tktkhero-secondary.png)
 

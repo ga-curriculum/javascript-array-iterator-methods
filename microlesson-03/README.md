@@ -1,4 +1,4 @@
-# [tktk Module Name] - tktk Microlesson Name
+# Array Iterator Methods - tktk Microlesson Name
 
 ![Hero image](./assets/hero.png)
 
