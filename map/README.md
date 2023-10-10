@@ -1,4 +1,4 @@
-# Array Iterator Methods - Map
+# Array Iterator Methods - map
 
 ![Hero image](./assets/hero.png)
 
@@ -25,7 +25,7 @@ Callback functions typically make use of arrow function syntax:
 const squared = nums.map(num => num * num)
 ```
 
-## You Do 💪
+### You Do 💪
 
 Given an array of instructors,
 

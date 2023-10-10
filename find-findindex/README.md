@@ -1,4 +1,4 @@
-# Array Iterator Methods - tktk Microlesson Name
+# Array Iterator Methods - find and findIndex
 
 ![Hero image](./assets/hero.png)
 
