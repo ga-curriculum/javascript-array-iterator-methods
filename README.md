@@ -1,18 +1,20 @@
-# [tktk Module Name]
+# Array Iterator Methods
 
 ![Hero image](./assets/tktkhero-main.png)
 
 ## Module overview
 
-tktk What is the takeaway of this module?
+This module introduces array iterator methods. 
 
 ## Content outline
 
 | Lesson | Video Time | Video | Topics Covered |
 | ------ |:----------:|:-----:| -------------- |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | tktk min | [tktk Link]() | tktk topics covered |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | tktk min | [tktk Link]() | tktk topics covered |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | tktk min | [tktk Link]() | tktk topics covered |
+| [Concepts](./concepts/README.md) | tktk min | [tktk Link]() | Define array iterator methods and their purpose. |
+| [map()](./map/README.md) | tktk min | [tktk Link]() | Iterate over an array, creating a new modified array. |
+| [filter()](./filter/README.md) | tktk min | [tktk Link]() | Filter down an array to elements that pass a given test. |
+| [find()/findIndex()](./find-findindex/README.md) | tktk min | [tktk Link]() | Use find() and findIndex() to search through an array. |
+| [some()/every()](./some-every/README.md) | tktk min | [tktk Link]() | Test if some or every element in an array passes a given test. |
 |  **Total Module**                                        | tktk min | ---           | ---                 |
 
 ## Additional content 
@@ -21,9 +23,7 @@ tktk What is the takeaway of this module?
 
 ### 🚀 Level Up
 
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md)
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md)
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md)
+- [reduce](./level-up/reduce.md)
 
 ## Internal resources
 

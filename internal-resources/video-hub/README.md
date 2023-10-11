@@ -1,4 +1,4 @@
-# [tktk Module Name] - Video Hub
+# Array Iterator Methods - Video Hub
 
 ![Hero image](../../assets/tktkhero-secondary.png)
 

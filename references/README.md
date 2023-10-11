@@ -1,4 +1,4 @@
-# [tktk Module Name] - References
+# Array Iterator Methods - References
 
 ![Hero image](./assets/hero.png)
 
@@ -6,8 +6,4 @@
 
 Links from lessons:
 
-- [tktk descriptive name of link]()
-
-- [tktk descriptive name of link]()
-
-- [tktk descriptive name of link]()
+- [Array - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
