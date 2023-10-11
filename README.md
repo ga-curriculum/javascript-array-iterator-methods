@@ -10,11 +10,11 @@ This module introduces array iterator methods.
 
 | Lesson | Video Time | Video | Topics Covered |
 | ------ |:----------:|:-----:| -------------- |
-| [Concepts](./concepts/README.md) | tktk min | [tktk Link]() | tktk topics covered |
-| [map](./map/README.md) | tktk min | [tktk Link]() | tktk topics covered |
-| [filter](./filter/README.md) | tktk min | [tktk Link]() | tktk topics covered |
-| [find/findIndex](./find-findindex/README.md) | tktk min | [tktk Link]() | tktk topics covered |
-| [some/every](./some-every/README.md) | tktk min | [tktk Link]() | tktk topics covered |
+| [Concepts](./concepts/README.md) | tktk min | [tktk Link]() | Define array iterator methods and their purpose. |
+| [map()](./map/README.md) | tktk min | [tktk Link]() | Iterate over an array, creating a new modified array. |
+| [filter()](./filter/README.md) | tktk min | [tktk Link]() | Filter down an array to elements that pass a given test. |
+| [find()/findIndex()](./find-findindex/README.md) | tktk min | [tktk Link]() | Use find() and findIndex() to search through an array. |
+| [some()/every()](./some-every/README.md) | tktk min | [tktk Link]() | Test if some or every element in an array passes a given test. |
 |  **Total Module**                                        | tktk min | ---           | ---                 |
 
 ## Additional content 
