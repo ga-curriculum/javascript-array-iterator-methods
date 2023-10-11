@@ -23,7 +23,7 @@ This module introduces array iterator methods.
 
 ### 🚀 Level Up
 
-- [reduce](./level-up/reduce.md)
+- [reduce()](./level-up/reduce.md)
 
 ## Internal resources
 
