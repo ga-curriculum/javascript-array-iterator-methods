@@ -20,7 +20,7 @@ array.map(function(element, index, array) {
 
 Remember, the callback function we write will be called once for each element in the array. Under the hood, the engine will be passing arguments for each of these three parameters once for every iteration through the array. 
 
-An easy way to examine what these parameters correspond to is to simply log the values (feel free to copy this code): 
+An easy way to examine what these parameters correspond to is to log the values: 
 
 ```javascript
 const array = ['apple','banana','orange']
@@ -65,7 +65,7 @@ const squared = nums.map(num => num * num)
 Given an array of instructors,
 
 ```javascript
-const instructors = ["Beryl", "Ian", "Hunter", "Joe", "Jurgen", "Ben", "David"]
+const instructors = ["Beryl", "Hunter", "Joe", "Jurgen", "Ben", "David"]
 ```
 
 Use map to create a new array that adds the string " is awesome" to each array element.
@@ -74,7 +74,6 @@ Sample output:
 ```javascript
 [
   "Beryl is awesome",
-	"Ian is awesome",
 	"Hunter is awesome",
 	"Joe is awesome",
 	"Jurgen is awesome",

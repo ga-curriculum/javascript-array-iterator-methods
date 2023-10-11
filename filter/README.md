@@ -67,6 +67,7 @@ console.log(odds)
 const odds = nums.filter(num => num % 2)
 ```
 
+
 ### You Do 💪
 
 Filter out all “jerks” and make a ‘jerk-free’ array named `notJerks`.
