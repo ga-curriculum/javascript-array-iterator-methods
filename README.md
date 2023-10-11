@@ -10,9 +10,11 @@ This module introduces array iterator methods.
 
 | Lesson | Video Time | Video | Topics Covered |
 | ------ |:----------:|:-----:| -------------- |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | tktk min | [tktk Link]() | tktk topics covered |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | tktk min | [tktk Link]() | tktk topics covered |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | tktk min | [tktk Link]() | tktk topics covered |
+| [Concepts](./concepts/README.md) | tktk min | [tktk Link]() | tktk topics covered |
+| [map](./map/README.md) | tktk min | [tktk Link]() | tktk topics covered |
+| [filter](./filter/README.md) | tktk min | [tktk Link]() | tktk topics covered |
+| [find/findIndex](./find-findindex/README.md) | tktk min | [tktk Link]() | tktk topics covered |
+| [some/every](./some-every/README.md) | tktk min | [tktk Link]() | tktk topics covered |
 |  **Total Module**                                        | tktk min | ---           | ---                 |
 
 ## Additional content 
@@ -21,9 +23,7 @@ This module introduces array iterator methods.
 
 ### 🚀 Level Up
 
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md)
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md)
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md)
+- [reduce](./level-up/reduce.md)
 
 ## Internal resources
 
