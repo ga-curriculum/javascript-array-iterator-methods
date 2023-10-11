@@ -10,6 +10,7 @@ This module introduces array iterator methods.
 
 | Lesson | Video Time | Video | Topics Covered |
 | ------ |:----------:|:-----:| -------------- |
+| [Setup](./setup/README.md) | tktk min | [tktk Link]() | --- |
 | [Concepts](./concepts/README.md) | tktk min | [tktk Link]() | Define array iterator methods and their purpose. |
 | [map()](./map/README.md) | tktk min | [tktk Link]() | Iterate over an array, creating a new modified array. |
 | [filter()](./filter/README.md) | tktk min | [tktk Link]() | Filter down an array to elements that pass a given test. |
