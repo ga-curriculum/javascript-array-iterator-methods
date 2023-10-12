@@ -18,18 +18,16 @@ const cars = [
   {color: 'white', make: 'Tesla', year: 2016}
 ]
 
-const firstWhiteCar = cars.find(function(car) {
+const firstWhiteCar = cars.find((car) => {
   return car.color === 'white'
 })
 // firstWhiteCar is {color: 'white', make: 'Toyota', year: 2013}
 
-const missingCar = cars.find(function(car) {
+const missingCar = cars.find((car) => {
   return car.color === 'black'
 })
 // missingCar = undefined
 
-/*--- using an arrow function for the callback ---*/
-const firstWhiteCar = cars.find(car => car.color === 'white')
 ```
 
 ## findIndex
@@ -46,17 +44,14 @@ const cars = [
   {color: 'white', make: 'Tesla', year: 2016}
 ]
 
-const firstWhiteCarIdx = cars.findIndex(function(car) {           
+const firstWhiteCarIdx = cars.findIndex((car) => {           
   return car.color === 'white'
 })
 // firstWhiteCarIdx equals 1
 
-const missingCarIdx = cars.findIndex(function(car) {
+const missingCarIdx = cars.findIndex((car) => {
   return car.color === 'black'
 })
 // missingCarIdx = -1
-
-/*--- using an arrow function for the callback ---*/
-const firstWhiteCarIdx = cars.findIndex(car => car.color === 'white')
 ```
 

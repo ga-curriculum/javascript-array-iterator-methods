@@ -20,9 +20,9 @@ We can write code that describes what we want it to do:
 ```javascript
 // find an element in an array:
 
-array.find(function(element)){
+array.find((element) => {
   // search criteria 
-}
+})
 ```
 
 How are we iterating? We don’t need to worry about that! We just tell the computer to iterate over the array, and it does it.

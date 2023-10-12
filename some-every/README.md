@@ -16,13 +16,10 @@ const cars = [
   {color: 'white', make: 'Tesla', year: 2016}
 ]
 
-const hasFord = cars.some(function(car) {
+const hasFord = cars.some((car) => {
   return car.make === 'Ford'
 })
 // hasFord is true
-
-/*--- using an arrow function for the callback ---*/
-const hasFord = cars.some(car => car.make === 'Ford')
 ```
 
 ### You Do 💪
@@ -46,14 +43,11 @@ const cars = [
   {color: 'white', make: 'Tesla', year: 2016}
 ]
 
-const everyCarIsBlue = cars.every(function(car) {
+const everyCarIsBlue = cars.every((car) => {
   return car.color === 'blue'
 })
 
 // everyCarIsBlue is false
-
-/*--- using an arrow function for the callback ---*/
-const everyCarIsBlue = cars.every(car => car.color === 'blue')
 ```
 
 ### You Do 💪
