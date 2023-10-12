@@ -16,6 +16,7 @@ This module introduces array iterator methods.
 | [filter()](./filter/README.md) | tktk min | [tktk Link]() | Filter down an array to elements that pass a given test. |
 | [find()/findIndex()](./find-findindex/README.md) | tktk min | [tktk Link]() | Use find() and findIndex() to search through an array. |
 | [some()/every()](./some-every/README.md) | tktk min | [tktk Link]() | Test if some or every element in an array passes a given test. |
+| [Callback Functions, continued](./callback-functions-continued/README.md) | tktk min | [tktk Link]() | Understand the common callback function syntax used with array iterator methods. |
 |  **Total Module**                                        | tktk min | ---           | ---                 |
 
 ## Additional content 

@@ -15,7 +15,7 @@ One easy way to see this is by using literal `true` or `false` Boolean values:
 ```javascript
 const arr = [true, false, true, false, false, true]
 
-const filteredArr = arr.filter(function(element){
+const filteredArr = arr.filter((element) => {
   return element
 })
 
@@ -27,7 +27,7 @@ This also works with truthy values:
 ```javascript
 const arr = [true, false, 0, 'string', '', null, undefined, 42]
 
-const filteredArr = arr.filter(function(element){
+const filteredArr = arr.filter((element) => {
   return element
 })
 
@@ -42,14 +42,11 @@ Typically, `filter()` will make use of some sort of comparison or equality opera
 ```javascript
 const nums = [100, 2, 5, 42, 99]
 
-const numsOver50 = nums.filter(function(num){
+const numsOver50 = nums.filter((num) => {
   return num > 50
 })
 
 console.log(numsOver50) // [100, 99]
-
-/*--- using an arrow function for the callback ---*/
-const numsOver50 = nums.filter(nums => nums > 50)
 ```
 
 ### Obtain just the odd numbers
@@ -57,14 +54,12 @@ const numsOver50 = nums.filter(nums => nums > 50)
 ```javascript
 const nums = [100, 2, 5, 42, 99]
 
-const odds = nums.filter(function(num) {
+const odds = nums.filter((num) => {
   return num % 2
 })
 
 console.log(odds)
 
-/*--- using an arrow function for the callback ---*/
-const odds = nums.filter(num => num % 2)
 ```
 
 
