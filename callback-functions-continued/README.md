@@ -24,7 +24,7 @@ An easy way to examine what these parameters correspond to is to log the values:
 ```javascript
 const array = ['apple','banana','orange']
 
-const mappedArray = array.map(function(element, index, array) {
+const mappedArray = array.map((element, index, array) => {
   return `element is: ${element}, index is: ${index}, array is ${array}`
 })
 
