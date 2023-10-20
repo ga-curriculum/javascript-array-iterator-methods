@@ -12,7 +12,7 @@ Every array iterator method in this module (with the exception of `reduce()` in 
 // callback function parameters
 array.map((element) => {
 
-})
+});
 ```
 
 ## map
@@ -25,21 +25,19 @@ The returned array is always the same length as the source array.
 const nums = [1, 2, 3]
 const squared = nums.map((num) => {
   return num * num
-})
+});
 
 // squared --> [1, 4, 9]
 ```
 
 `map` returns a new array comprised of ‘transformed’ values -  and how they have been transformed is up to the code we write in the callback function.
 
-```
-
 ### You Do 💪
 
 Given an array of instructors,
 
 ```javascript
-const instructors = ["Beryl", "Hunter", "Joe", "Jurgen", "Ben", "David"]
+const instructors = ['Beryl', 'Hunter', 'Joe', 'Jurgen', 'Ben', 'David']
 ```
 
 Use map to create a new array that adds the string " is awesome" to each array element.
@@ -47,12 +45,12 @@ Use map to create a new array that adds the string " is awesome" to each array e
 Sample output: 
 ```javascript
 [
-  "Beryl is awesome",
-	"Hunter is awesome",
-	"Joe is awesome",
-	"Jurgen is awesome",
-  "Ben is awesome", 
-  "David is awesome",
+  'Beryl is awesome',
+  'Hunter is awesome',
+  'Joe is awesome',
+  'Jurgen is awesome',
+  'Ben is awesome', 
+  'David is awesome',
 ]
 ```
 
