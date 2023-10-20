@@ -10,7 +10,7 @@ Every array iterator method in this module (with the exception of `reduce()` in 
 // callback function parameters
 array.map((element, index, array) => {
 
-})
+});
 ```
 
 1. `element` - The current element
@@ -22,11 +22,11 @@ Remember, the callback function we write will be called once for each element in
 An easy way to examine what these parameters correspond to is to log the values: 
 
 ```javascript
-const array = ['apple','banana','orange']
+const array = ['apple','banana','orange'];
 
 const mappedArray = array.map((element, index, array) => {
-  return `element is: ${element}, index is: ${index}, array is ${array}`
-})
+  return `element is: ${element}, index is: ${index}, array is ${array}`;
+});
 
 console.log(mappedArray)
 // [ 'element is: apple, index is: 0, array is apple,banana,orange',
@@ -43,11 +43,11 @@ As we loop through the array, `element` is being supplied different values as an
 It is considered best practice to choose a clear, singular name for the `element` parameter. If dealing with an array called `students`, then the singular `student` is a logical choice.
 
 ```javascript
-const students = []
+const students = [];
 
 let mappedArray = students.map((student) => {
   
-})
+});
 ```
 
 ## `index`
@@ -57,13 +57,13 @@ So, what use is the `index` parameter? Often, we won't need it. It's very common
 Let's say we wanted to filter an array so that only the odd indexed elements were kept in our new array. With only the current `animal` element this would be a bit tricky, but with the `index` supplied it's a relatively light task: 
 
 ```javascript
-const animals = ['chicken', 'goat', 'pig', 'sheep', 'cow']
+const animals = ['chicken', 'goat', 'pig', 'sheep', 'cow'];
 
 const oddAnimals = animals.filter((animal, index) => {
-  if(index % 2) return animal
-})
+  if(index % 2) return animal;
+});
 
-console.log(oddAnimals) 
+console.log(oddAnimals);
 ```
 
 That said, you won't use `index` much. It's just nice to know it's available in case you do want it!
