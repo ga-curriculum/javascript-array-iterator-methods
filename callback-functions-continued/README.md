@@ -1,6 +1,4 @@
-# Array Iterator Methods - Callback Functions, Continued
-
-![Hero image](./assets/hero.png)
+![Array Iterator Methods - Callback Functions, Continued](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will gain a deeper understanding of the common callback function syntax used with array iterator methods.
 

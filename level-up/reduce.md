@@ -1,6 +1,4 @@
-# Array Iterator Methods - Level Up - Reduce
-
-![Hero image](./assets/hero.png)
+# ![Array Iterator Methods - Level Up - Reduce](./assets/hero.png)
 
 PURPOSE: Reduce an array into a single value. Note that the “single value” can be a single object, array, string - anything.
 

@@ -1,6 +1,4 @@
-# Array Iterator Methods - References
-
-![Hero image](./assets/hero.png)
+# ![Array Iterator Methods - References](./assets/hero.png)
 
 ## Lesson references
 

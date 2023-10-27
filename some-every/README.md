@@ -1,4 +1,4 @@
-# ![Array Iterator Methods - `some` and `every`](./assets/hero.png)
+# ![Array Iterator Methods - some and every](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to test if some or every element in an array passes a given test.
 
