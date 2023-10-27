@@ -1,6 +1,4 @@
-# Array Iterator Methods - filter
-
-![Hero image](./assets/hero.png)
+# ![Array Iterator Methods - filter](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to use `filter()` to filter down an array to elements that pass a given test.
 

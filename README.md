@@ -1,6 +1,4 @@
-# Array Iterator Methods
-
-![Hero image](./assets/tktkhero-main.png)
+# ![Array Iterator Methods](./assets/hero.png)
 
 ## Module overview
 

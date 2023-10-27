@@ -1,6 +1,4 @@
-# Array Iterator Methods - map
-
-![Hero image](./assets/hero.png)
+# ![Array Iterator Methods - map](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to use `map()` to iterate over an array, creating a new modified array.
 
