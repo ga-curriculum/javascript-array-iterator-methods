@@ -8,7 +8,7 @@ PURPOSE: Select certain elements from a source array.
 
 `filter()` selects certain elements from a source array, returning a new array with only those elements. 
 
-Its callback function requires a conditional statement that will either resolve to truthy or falsy when returned, and `filter()` uses that value to decide if it should “keep” the element or not. If falsy, the element does not get added to the new array and is ‘discarded.’ The new array will thus have only “true” elements, based on the criteria provided. 
+Its callback function requires a conditional statement that will either resolve to truthy or falsy when returned, and `filter()` uses that value to decide if it should “keep” the element or not. If falsy, the element does not get added to the new array and is “discarded.“ The new array will thus have only “true” elements, based on the criteria provided. 
 
 One easy way to see this is by using literal `true` or `false` Boolean values: 
 
@@ -16,10 +16,10 @@ One easy way to see this is by using literal `true` or `false` Boolean values:
 const arr = [true, false, true, false, false, true]
 
 const filteredArr = arr.filter((element) => {
-  return element
-})
+  return element;
+});
 
-console.log(filteredArr) // [true, true, true]
+console.log(filteredArr); // [true, true, true]
 ```
 
 This also works with truthy values: 
@@ -28,10 +28,10 @@ This also works with truthy values:
 const arr = [true, false, 0, 'string', '', null, undefined, 42]
 
 const filteredArr = arr.filter((element) => {
-  return element
-})
+  return element;
+});
 
-console.log(filteredArr) // [true, 'string', 42]
+console.log(filteredArr); // [true, 'string', 42]
 ```
 
 
@@ -43,10 +43,10 @@ Typically, `filter()` will make use of some sort of comparison or equality opera
 const nums = [100, 2, 5, 42, 99]
 
 const numsOver50 = nums.filter((num) => {
-  return num > 50
-})
+  return num > 50;
+});
 
-console.log(numsOver50) // [100, 99]
+console.log(numsOver50); // [100, 99]
 ```
 
 ### Obtain just the odd numbers
@@ -55,18 +55,17 @@ console.log(numsOver50) // [100, 99]
 const nums = [100, 2, 5, 42, 99]
 
 const odds = nums.filter((num) => {
-  return num % 2
-})
+  return num % 2;
+});
 
-console.log(odds)
-
+console.log(odds);
 ```
 
 
 ### You Do 💪
 
-Filter out all “jerks” and make a ‘jerk-free’ array named `notJerks`.
+Filter out all “jerks” and make a “jerk-free“ array named `notJerks`.
 
 ```javascript
-const people = ["jerks", "nice people", "jerks", "nice people", "nice people"]
+const people = ['jerks', 'nice people', 'jerks', 'nice people', 'nice people'];
 ```

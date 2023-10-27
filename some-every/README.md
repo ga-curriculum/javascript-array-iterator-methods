@@ -14,11 +14,11 @@ const cars = [
   {color: 'white', make: 'Toyota', year: 2013},
   {color: 'blue', make: 'Ford', year: 2014},
   {color: 'white', make: 'Tesla', year: 2016}
-]
+];
 
 const hasFord = cars.some((car) => {
-  return car.make === 'Ford'
-})
+  return car.make === 'Ford';
+});
 // hasFord is true
 ```
 
@@ -27,8 +27,8 @@ const hasFord = cars.some((car) => {
 Do I have an evil monkey in my room? 
 
 ```javascript
-const thingsInMyRoom = ["evil monkey", "bed", "lamp", "three tacos"]
-const isAnEvilMonkeyInMyRoom = /* Fill code in here */
+const thingsInMyRoom = ['bed', 'lamp', 'random elephant', 'three tacos'];
+const isARandomElephantInMyRoom = /* Fill code in here */
 ```
 
 ## every
@@ -41,11 +41,11 @@ const cars = [
   {color: 'white', make: 'Toyota', year: 2013},
   {color: 'blue', make: 'Ford', year: 2014},
   {color: 'white', make: 'Tesla', year: 2016}
-]
+];
 
 const everyCarIsBlue = cars.every((car) => {
   return car.color === 'blue'
-})
+});
 
 // everyCarIsBlue is false
 ```
@@ -55,12 +55,12 @@ Do I have anything but evil monkeys in my room?
 
 ```javascript
 const thingsInMyRoom = [
-  "evil donkey", 
-  "evil monkey", 
-  "evil monkey", 
-  "evil monkey"
-]
+  'benevolent donkey', 
+  'benevolent monkey', 
+  'benevolent monkey', 
+  'benevolent monkey'
+];
 
-const isEverythingInMyRoomAnEvilMonkey = /* Fill code in here */
+const isEverythingInMyRoomABenevolentMonkey = /* Fill code in here */
 ```
 

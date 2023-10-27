@@ -8,7 +8,7 @@
 
 PURPOSE: Find an element within an array.
 
-`find()` will return the *first* element that satisfies the provided testing function, and returns ‘undefined’ if no match is found.
+`find()` will return the *first* element that satisfies the provided testing function, and returns `undefined` if no match is found.
 
 ```javascript
 const cars = [
@@ -16,18 +16,17 @@ const cars = [
   {color: 'white', make: 'Toyota', year: 2013},
   {color: 'blue', make: 'Ford', year: 2014},
   {color: 'white', make: 'Tesla', year: 2016}
-]
+];
 
 const firstWhiteCar = cars.find((car) => {
-  return car.color === 'white'
+  return car.color === 'white';
 })
 // firstWhiteCar is {color: 'white', make: 'Toyota', year: 2013}
 
 const missingCar = cars.find((car) => {
-  return car.color === 'black'
-})
+  return car.color === 'black';
+});
 // missingCar = undefined
-
 ```
 
 ## findIndex
@@ -42,16 +41,16 @@ const cars = [
   {color: 'white', make: 'Toyota', year: 2013},
   {color: 'blue', make: 'Ford', year: 2014},
   {color: 'white', make: 'Tesla', year: 2016}
-]
+];
 
 const firstWhiteCarIdx = cars.findIndex((car) => {           
-  return car.color === 'white'
-})
+  return car.color === 'white';
+});
 // firstWhiteCarIdx equals 1
 
 const missingCarIdx = cars.findIndex((car) => {
-  return car.color === 'black'
-})
+  return car.color === 'black';
+});
 // missingCarIdx = -1
 ```
 
