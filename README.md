@@ -1,11 +1,16 @@
 # ![JavaScript Array Iterator Methods](./assets/hero.png)
 
-## Module overview
-This module introduces array iterator methods. 
+## About
 
-## Content outline
+This module introduces array iterator methods.
 
-| Lesson | Video Time | Video | Topics Covered |
+## Prerequisites
+
+- JavaScript Arrays
+
+## Content
+
+| Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| -------------- |
 | [Setup](./setup/README.md) | tktk min | [tktk Link]() | --- |
 | [Concepts](./concepts/README.md) | tktk min | [tktk Link]() | Define array iterator methods and their purpose. |
@@ -16,13 +21,17 @@ This module introduces array iterator methods.
 | [Callback Functions, continued](./callback-functions-continued/README.md) | tktk min | [tktk Link]() | Understand the common callback function syntax used with array iterator methods. |
 |  **Total Module**                                        | tktk min | ---           | ---                 |
 
-## Additional content 
+## Level Up content
+
+| Lesson | Video Time | Video | Skills |
+| ------ |:----------:|:-----:| -------------- |
+| [reduce()](./level-up/reduce.md) | tktk min | [tktk Link]() | --- |
+|  **Total Level Up content**                                        | tktk min | ---           | ---                 |
+
+## References
 
 📖 [Reference Materials](./references/README.md)
 
-### 🚀 Level Up
-
-- [reduce()](./level-up/reduce.md)
 
 ## Internal resources
 
