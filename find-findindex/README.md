@@ -1,4 +1,4 @@
-# ![Array Iterator Methods - find and findIndex](./assets/hero.png)
+# ![JavaScript Array Iterator Methods - find and findIndex](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to use `find()` and `findIndex()` to search through an array.
 

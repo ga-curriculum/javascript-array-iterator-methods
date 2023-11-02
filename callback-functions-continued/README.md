@@ -1,4 +1,4 @@
-![Array Iterator Methods - Callback Functions, Continued](./assets/hero.png)
+# ![JavaScript Array Iterator Methods - Callback Functions, Continued](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will gain a deeper understanding of the common callback function syntax used with array iterator methods.
 

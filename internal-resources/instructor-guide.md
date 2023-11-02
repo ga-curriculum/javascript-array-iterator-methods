@@ -1,6 +1,4 @@
-# Array Iterator Methods - Instructor Guide
-
-![Hero image](../assets/hero.png)
+# ![JavaScript Array Iterator Methods - Instructor Guide](../assets/instructor-guide.png)
 
 ---
 

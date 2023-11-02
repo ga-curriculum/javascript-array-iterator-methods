@@ -1,6 +1,4 @@
-# Array Iterator Methods - Release Notes
-
-![Hero image](../assets/hero.png)
+# ![JavaScript Array Iterator Methods - Release Notes](../assets/release-notes.png)
 
 ## Version 1.0 - Updates from legacy content
 

@@ -1,4 +1,4 @@
-# ![Array Iterator Methods - References](./assets/hero.png)
+# ![JavaScript Array Iterator Methods - References](./assets/hero.png)
 
 ## Lesson references
 

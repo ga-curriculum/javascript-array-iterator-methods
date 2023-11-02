@@ -1,7 +1,6 @@
-# ![Array Iterator Methods](./assets/hero.png)
+# ![JavaScript Array Iterator Methods](./assets/hero.png)
 
 ## Module overview
-
 This module introduces array iterator methods. 
 
 ## Content outline

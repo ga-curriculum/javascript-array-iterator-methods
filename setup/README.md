@@ -1,4 +1,4 @@
-# ![Intro to Array Iterator Methods - Setup](./assets/hero.png)
+# ![JavaScript Array Iterator Methods - Setup](./assets/hero.png)
 
 Open your Terminal application and navigate to your `~/code/ga/lectures` directory:
 
