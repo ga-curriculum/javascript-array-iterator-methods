@@ -2,7 +2,7 @@
 
 ## About
 
-Array iterators simplify common tasks like transforming data `map()`, filtering data based on conditions `filter()`, or accumulating values `reduce()`. They are indispensable tools for handling arrays, which are one of the most frequently used data structures in programming. Instead of using traditional `for` or `while` loops, these methods provide a more readable and expressive way to iterate over arrays. Modern JavaScript frameworks and libraries like React, Angular, and Vue.js often utilize these methods for manipulating data structures, making it essential for developers to be proficient with them.
+Array iterators simplify common tasks like transforming data (*`map()`*), filtering data based on conditions (*`filter()`*), or accumulating values (*`reduce()`*). They are indispensable tools for handling arrays, which are one of the most frequently used data structures in programming. Instead of using traditional `for` or `while` loops, these methods provide a more readable and expressive way to iterate over arrays. Modern JavaScript frameworks and libraries like React, Angular, and Vue.js often utilize these methods for manipulating data structures, making it essential for developers to be proficient with them.
 
 ## Prerequisites
 

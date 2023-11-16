@@ -5,11 +5,11 @@ Open your Terminal application and navigate to your `~/code/ga/lectures` directo
 ```bash
 cd ~/code/ga/lectures
 ```
-Make a new directory called `intro-to-array-iterator-methods`, then enter this directory:
+Make a new directory called `javascript-array-iterator-methods`, then enter this directory:
 
 ```bash
-mkdir intro-to-array-iterator-methods
-cd intro-to-array-iterator-methods
+mkdir javascript-array-iterator-methods
+cd javascript-array-iterator-methods
 ```
 
 Then, create an `app.js` and an `index.html` file. These files will hold your work for this lecture:
@@ -24,7 +24,7 @@ With the files created, open the contents of the directory in VS Code:
 code .
 ```
 
-Open the `index.html` file and add HTML boilerplate by typing `!` and then hitting the `Tab` key. Then make use of the `app.js` file by adding this line inside the `<head>` tag:
+Open the `index.html` file and add HTML boilerplate by typing `!` and then hitting the `Tab` key. Then link the `app.js` file by adding this line inside the `<head>` tag:
 
 ```html
 <script defer src="./app.js"></script>

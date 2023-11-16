@@ -1,6 +1,6 @@
 # ![JavaScript Array Iterator Methods - some and every](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to test if some or every element in an array passes a given test.
+**Learning objective:** By the end of this lesson, students will be able to test if *some* or *every* element in an array meets a given condition.
 
 ## some
 
@@ -20,12 +20,12 @@ const hasFord = cars.some((car) => {
 // hasFord is true
 ```
 
-### You Do 💪
+### 🎓 You Do 
 
-Do I have an evil monkey in my room? 
+Do I have a random elephant in my room? 
 
 ```javascript
-const thingsInMyRoom = ['bed', 'lamp', 'random elephant', 'three tacos'];
+const thingsInMyRoom = ['bed', 'lamp', 'table', 'random elephant', 'three tacos'];
 const isARandomElephantInMyRoom = /* Fill code in here */
 ```
 
@@ -48,17 +48,18 @@ const everyCarIsBlue = cars.every((car) => {
 // everyCarIsBlue is false
 ```
 
-### You Do 💪
-Do I have anything but evil monkeys in my room?
+### 🎓 You Do 
+
+Do I have anything but random elephants in my room?
 
 ```javascript
 const thingsInMyRoom = [
-  'benevolent donkey', 
-  'benevolent monkey', 
-  'benevolent monkey', 
-  'benevolent monkey'
+  'random elephant', 
+  'random elephant', 
+  'random elephant', 
+  'random elephant'
 ];
 
-const isEverythingInMyRoomABenevolentMonkey = /* Fill code in here */
+const isEverythingInMyRoomARandomElephant = /* Fill code in here */
 ```
 
