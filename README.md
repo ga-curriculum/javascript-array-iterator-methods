@@ -2,31 +2,32 @@
 
 ## About
 
-This module introduces array iterator methods.
+Array iterators simplify common tasks like transforming data `map()`, filtering data based on conditions `filter()`, or accumulating values `reduce()`. They are indispensable tools for handling arrays, which are one of the most frequently used data structures in programming. Instead of using traditional `for` or `while` loops, these methods provide a more readable and expressive way to iterate over arrays. Modern JavaScript frameworks and libraries like React, Angular, and Vue.js often utilize these methods for manipulating data structures, making it essential for developers to be proficient with them.
 
 ## Prerequisites
 
-- JavaScript Arrays
+- Intro to JavaScript Functions
+- Intro to JavaScript Arrays
 
 ## Content
 
 | Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| -------------- |
-| [Setup](./setup/README.md) | tktk min | [tktk Link]() | --- |
-| [Concepts](./concepts/README.md) | tktk min | [tktk Link]() | Define array iterator methods and their purpose. |
-| [map()](./map/README.md) | tktk min | [tktk Link]() | Iterate over an array, creating a new modified array. |
-| [filter()](./filter/README.md) | tktk min | [tktk Link]() | Filter down an array to elements that pass a given test. |
-| [find()/findIndex()](./find-findindex/README.md) | tktk min | [tktk Link]() | Use find() and findIndex() to search through an array. |
-| [some()/every()](./some-every/README.md) | tktk min | [tktk Link]() | Test if some or every element in an array passes a given test. |
-| [Callback Functions, continued](./callback-functions-continued/README.md) | tktk min | [tktk Link]() | Understand the common callback function syntax used with array iterator methods. |
-|  **Total Module**                                        | tktk min | ---           | ---                 |
+| ------ |:----------:|:-----:| -------|
+| [Setup](./setup/README.md) | -- | -- | Setting up the development environment|
+| [Concepts](./concepts/README.md) | -- | -- | Understanding array iterators |
+| [map()](./map/README.md) | -- | -- | Array modification and transformation with `map()` |
+| [filter()](./filter/README.md) | -- | -- | Conditional filtering with `filter()` |
+| [find() & findIndex()](./find-findindex/README.md) | -- | -- | Element location with `find()` and `findIndex()` |
+| [some() & every()](./some-every/README.md) | -- | -- | Conditional testing with `some()` and `every()` |
+| [Callback Functions, continued](./callback-functions-continued/README.md) | -- | -- | Callback function syntax in array iterators |
+|  **Total Content**        | -- | -- |          |
 
 ## Level Up content
 
 | Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| -------------- |
-| [reduce()](./level-up/reduce.md) | tktk min | [tktk Link]() | --- |
-|  **Total Level Up content**                                        | tktk min | ---           | ---                 |
+| ------ |:----------:|:-----:| ------ |
+| [reduce()](./level-up/reduce.md) | -- | -- | `reduce()` an array to a single value |
+|  **Total Level Up content**      | -- | -- |              |
 
 ## References
 
