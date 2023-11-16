@@ -1,8 +1,10 @@
-# ![JavaScript Array Iterator Methods - Callback Functions, Continued](./assets/hero.png)
+# ![JavaScript Array Iterator Methods - Callback Functions](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will gain a deeper understanding of the common callback function syntax used with array iterator methods.
 
-Every array iterator method in this module (with the exception of `reduce()` in the level up content) has the same callback function signature. Let's use `.map()` as an example: 
+Every array iterator method in this module (with the exception of `reduce()`) has the same callback function signature. 
+
+Let's use `.map()` as an example: 
 
 ```javascript
 // callback function parameters

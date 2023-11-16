@@ -2,17 +2,6 @@
 
 **Learning objective:** By the end of this lesson, students will be able to use `map()` to iterate over an array, creating a new modified array.
 
-## A note on callback functions
-
-Every array iterator method in this module (with the exception of `reduce()` in the level up content) will have the same callback function signature. As a result, we will touch on it once in the context of `map()`, and the information in this section will be applicable to the rest of the iterator methods moving forward. 
-
-```javascript
-// callback function parameters
-array.map((element) => {
-
-});
-```
-
 ## map
 
 **PURPOSE:** Create a new array from a source array, usually “transforming” its values.

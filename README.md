@@ -15,11 +15,11 @@ Array iterators simplify common tasks like transforming data (*`map()`*), filter
 | ------ |:----------:|:-----:| -------|
 | [Setup](./setup/README.md) | -- | -- | Setting up the development environment|
 | [Concepts](./concepts/README.md) | -- | -- | Understanding array iterators |
+| [Callback Functions](./callback-functions-continued/README.md) | -- | -- | Callback function syntax in array iterators |
 | [map()](./map/README.md) | -- | -- | Array modification and transformation with `map()` |
 | [filter()](./filter/README.md) | -- | -- | Conditional filtering with `filter()` |
 | [find() & findIndex()](./find-findindex/README.md) | -- | -- | Element location with `find()` and `findIndex()` |
 | [some() & every()](./some-every/README.md) | -- | -- | Conditional testing with `some()` and `every()` |
-| [Callback Functions, continued](./callback-functions-continued/README.md) | -- | -- | Callback function syntax in array iterators |
 |  **Total Content**        | -- | -- |          |
 
 ## Level Up content
