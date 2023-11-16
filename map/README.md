@@ -30,7 +30,7 @@ const squared = nums.map((num) => {
 
 `map` returns a new array comprised of ‘transformed’ values -  and how they have been transformed is up to the code we write in the callback function.
 
-### You Do 💪
+### 🎓 You Do
 
 Given an array of instructors,
 

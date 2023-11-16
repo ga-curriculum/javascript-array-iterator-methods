@@ -1,6 +1,6 @@
 # ![JavaScript Array Iterator Methods - Level Up - Reduce](./assets/hero.png)
 
-PURPOSE: Reduce an array into a single value. Note that the “single value” can be a single object, array, string - anything.
+PURPOSE: Reduce an array into a single value. Note that the “single value” can be a single object, array, or string.
 
 `reduce()` is unique from the other array iterator methods we've seen so far in that it has a more complex callback function syntax: 
 
@@ -52,6 +52,17 @@ let tally = votes.reduce(function(acc, vote){
 // tally is { 'Yes': 3, 'No': 2 }
 ```
 
-While it is true that `reduce` COULD be used to handle the same tasks as almost all of the other examples you’ve seen in this lecture, best practice is to stay focused on what `reduce` truly shines at, which is reducing an array down to a single value - an object, a number, a string, etc. 
+Let's break this example down together.
 
-Just remember: `reduce()` is a jack of all trades, master of one! 
+1. `reduce()` is called on the votes array.
+2. It takes two arguments: `acc` (the accumulator) and `vote` (the current array element).
+3. `acc` starts as `{}` and eventually becomes the tally object.
+4. The function checks if `acc[vote]` exists. `acc[vote]` refers to the property of acc whose key is the current vote ('Yes' or 'No').
+5. If `acc[vote]` exists, it means this vote type has been encountered before, so the function increments the count: `acc[vote] = acc[vote] + 1`.
+6. If `acc[vote]` does not exist (which is true the first time a particular vote type is encountered), it sets `acc[vote] = 1`.
+7. After modifying acc, the function returns it. This returned value becomes the acc for the next iteration.
+8. After `reduce()` has processed all elements in the votes array, the final value of acc is assigned to `tally`.
+9. `tally` is an object that contains the count of each vote type: { 'Yes': 3, 'No': 2 }.
+
+
+While it is true that `reduce` COULD be used to handle the same tasks as almost all of the other examples you’ve seen in this module, best practice is to stay focused on what `reduce` truly excels at, which is reducing an array down to a single value - an object, a number, a string, etc. 

@@ -1,12 +1,12 @@
 # ![Array Iterator Methods - filter](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to use `filter()` to filter down an array to elements that pass a given test.
+**Learning objective:** By the end of this lesson, students will be able to effectively use `filter()` to create new arrays containing elements that meet specific conditions.
 
-PURPOSE: Select certain elements from a source array.
+PURPOSE: Select specific elements from a source array, based on defined criteria
 
-`filter()` selects certain elements from a source array, returning a new array with only those elements. 
+`filter()` selects certain elements from an array, returning a new array with only those elements. 
 
-Its callback function requires a conditional statement that will either resolve to truthy or falsy when returned, and `filter()` uses that value to decide if it should “keep” the element or not. If falsy, the element does not get added to the new array and is “discarded.“ The new array will thus have only “true” elements, based on the criteria provided. 
+Its callback function requires a conditional statement that will either resolve to truthy or falsy when returned, and `filter()` uses that value to decide if it should “keep” the element or not. If the condition is falsy, the element is excluded (or "discarded") from the new array. The new array will thus have only “true” elements, based on the criteria provided. 
 
 One easy way to see this is by using literal `true` or `false` Boolean values: 
 
@@ -60,7 +60,7 @@ console.log(odds);
 ```
 
 
-### You Do 💪
+### 🎓 You Do 
 
 Filter out all “jerks” and make a “jerk-free“ array named `notJerks`.
 
