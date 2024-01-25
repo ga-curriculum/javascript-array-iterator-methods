@@ -15,14 +15,14 @@ Array iterators simplify common tasks like transforming data (*`map()`*), filter
 | [filter()](../filter/README.md) | Conditional filtering with `filter()` |
 | [find() & findIndex()](../find-findindex/README.md) | Element location with `find()` and `findIndex()` |
 | [some() & every()](../some-every/README.md) | Conditional testing with `some()` and `every()` |
-|  **Total Content**        |          |
+
 
 ## Level Up content
 
 | Lesson |  Skills |
 | ------ | ------ |
 | [reduce()](../level-up/reduce.md) |  `reduce()` an array to a single value |
-|  **Total Level Up content**      |               |
+
 
 ## References
 
