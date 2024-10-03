@@ -1,4 +1,7 @@
-# ![JavaScript Array Iterator Methods - Concepts](./assets/hero.png)
+<h1>
+  <span class="headline">JavaScript Array Iterator Methods</span>
+  <span class="subhead">Concepts</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to define array iterator methods and their purpose.
 
