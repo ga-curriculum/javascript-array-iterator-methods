@@ -24,35 +24,35 @@ callbackFunctionsContinued = new Template.Microlesson {
 }
 
 map = new Template.Microlesson {
-  friendlyName = "<code>.map()</code>"
+  friendlyName = " .map() "
   dirName = "map"
   type = "Content"
   videoUrl = ""
 }
 
 filter = new Template.Microlesson {
-  friendlyName = "<code>.filter()</code>"
+  friendlyName = " .filter() "
   dirName = "filter"
   type = "Content"
   videoUrl = ""
 }
 
 findFindindex = new Template.Microlesson {
-  friendlyName = "<code>.find()</code> & <code>.findIndex()</code>"
+  friendlyName = " .find()  &  .findIndex() "
   dirName = "find-findindex"
   type = "Content"
   videoUrl = ""
 }
 
 someEvery = new Template.Microlesson {
-  friendlyName = "<code>.some()</code> & <code>.every()</code>"
+  friendlyName = " .some()  &  .every() "
   dirName = "some-every"
   type = "Content"
   videoUrl = ""
 }
 
 reduce = new Template.Microlesson {
-  friendlyName = "<code>.reduce()</code>"
+  friendlyName = " .reduce() "
   dirName = "reduce"
   type = "Content"
   videoUrl = ""

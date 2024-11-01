@@ -32,31 +32,31 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>.map()</code>",
+          "friendlyName": " .map() ",
           "dirName": "map",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>.filter()</code>",
+          "friendlyName": " .filter() ",
           "dirName": "filter",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>.find()</code> & <code>.findIndex()</code>",
+          "friendlyName": " .find()  &  .findIndex() ",
           "dirName": "find-findindex",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>.some()</code> & <code>.every()</code>",
+          "friendlyName": " .some()  &  .every() ",
           "dirName": "some-every",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>.reduce()</code>",
+          "friendlyName": " .reduce() ",
           "dirName": "reduce",
           "type": "Content",
           "videoUrl": ""
@@ -107,31 +107,31 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>.map()</code>",
+          "friendlyName": " .map() ",
           "dirName": "map",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>.filter()</code>",
+          "friendlyName": " .filter() ",
           "dirName": "filter",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>.find()</code> & <code>.findIndex()</code>",
+          "friendlyName": " .find()  &  .findIndex() ",
           "dirName": "find-findindex",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>.some()</code> & <code>.every()</code>",
+          "friendlyName": " .some()  &  .every() ",
           "dirName": "some-every",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>.reduce()</code>",
+          "friendlyName": " .reduce() ",
           "dirName": "reduce",
           "type": "Level Up content",
           "videoUrl": ""
