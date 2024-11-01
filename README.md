@@ -31,6 +31,11 @@ Array iterators simplify common tasks like transforming data (_`map()`_), filter
 - Intro to JavaScript Functions
 - Intro to JavaScript Arrays
 
+### Github Pages Sites
+
+- [Default Landing Page](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/javascript-array-iterator-methods/canvas-landing-pages/fallback)
+- [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/javascript-array-iterator-methods/canvas-landing-pages/seb)
+
 ### Resources
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
