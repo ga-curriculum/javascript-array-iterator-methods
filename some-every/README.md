@@ -1,4 +1,7 @@
-# ![JavaScript Array Iterator Methods - some and every](./assets/hero.png)
+<h1>
+  <span class="headline">JavaScript Array Iterator Methods</span>
+  <span class="subhead"><code>.some()</code> & <code>.every()</code></span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to test if *some* or *every* element in an array meets a given condition.
 

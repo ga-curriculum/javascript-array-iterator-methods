@@ -1,4 +1,7 @@
-# ![Array Iterator Methods - filter](./assets/hero.png)
+<h1>
+  <span class="headline">JavaScript Array Iterator Methods</span>
+  <span class="subhead"><code>.filter()</code></span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to effectively use `filter()` to create new arrays containing elements that meet specific conditions.
 
